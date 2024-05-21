@@ -1,0 +1,9 @@
+@font-face {
+    font-family: tamimi;
+    src: url("/public/fonts/Poetsen/PoetsenOne-Regular.ttf");
+    font-weight: 400;
+}
+body{
+    background-color: #d7ccc8;
+    font-family: cursive;
+}

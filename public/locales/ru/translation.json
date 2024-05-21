@@ -1,0 +1,15 @@
+{
+    "Moscow": "Москва",
+    "min" : "мин",
+    "max" : "макс",
+    "clear sky" : "ясно",
+    "few clouds" : "облачно с прояснениями",
+    "scattered clouds":"прояснения",
+    "broken clouds":"облачно с прояснениями",
+    "shower rain":"ливни",
+    "rain":"дождь",
+    "thunderstorm":"гроза, ливень с грозой, молния",
+    "snow":"снег",
+    "mist":"туман",
+    "overcast clouds": "облачно"
+  }
